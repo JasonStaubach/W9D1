@@ -1,0 +1,1 @@
+import MovingObject from "./moving-object";
